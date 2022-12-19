@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select_ui-dropdown-trigger ui-state-def_038126 (1)</name>
+   <tag></tag>
+   <elementGuidId>6d462cea-4597-46b2-a191-7bd6859e79dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/roots-dialog/div/div[2]/div/div/div/roots-dropdown/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-dropdown-trigger.ui-state-default.ui-corner-right.ng-tns-c48-22</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ea237ef-938d-4a53-8313-ab41279d0796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-22</value>
+      <webElementGuid>bd2dfd9c-6f63-414c-92f2-c4b0b5968b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;ng-tns-c50-21 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-21 col-xl-4 col-lg-4 col-md-4 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-21&quot;]/div[@class=&quot;row ng-tns-c50-21&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-22 ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-22 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-22&quot;]</value>
+      <webElementGuid>8f14c125-cfe2-4553-bb2f-e66043eb67cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/roots-dialog/div/div[2]/div/div/div/roots-dropdown/div/div[4]</value>
+      <webElementGuid>e9b9c478-04cd-4b71-8493-a77e26c2c91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[6]/following::div[1]</value>
+      <webElementGuid>a9d95ef6-a547-4c29-a9e0-2118c2c42ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[5]</value>
+      <webElementGuid>7a80d488-65f2-45f7-80d1-591de86d3621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[1]</value>
+      <webElementGuid>daedb272-1fcc-402d-bf39-5ba1853058c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/roots-dropdown/div/div[4]</value>
+      <webElementGuid>a877fbf2-e182-42b7-8d38-91cf01165777</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

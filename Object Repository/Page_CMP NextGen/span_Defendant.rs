@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Defendant</name>
+   <tag></tag>
+   <elementGuidId>4f50dc43-fa99-4a5d-8e86-63459d14a31a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-dropdown-item.ui-corner-all.ui-state-highlight > span.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div/div/div/div/roots-dropdown/div/div[5]/div/ul/roots-dropdownitem/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec043cd9-880f-4430-bbef-634871ce115d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>aadc8271-dfe6-432c-a282-ed9878a619ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Defendant</value>
+      <webElementGuid>cdf93686-2502-4eed-a721-12dfd5ea600f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-6-label&quot;)/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-64&quot;]/div[@class=&quot;ng-tns-c74-64&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-69 ng-pristine ng-star-inserted ng-valid ng-touched&quot;]/div[@class=&quot;ng-tns-c48-69 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-open ui-dropdown-clearable&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c48-69 ui-dropdown-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-dropdown-items-wrapper ng-tns-c48-69&quot;]/ul[@class=&quot;ui-dropdown-items ui-dropdown-list ui-widget-content ui-widget ui-corner-all ui-helper-reset ng-tns-c48-69&quot;]/roots-dropdownitem[@class=&quot;ng-tns-c48-69 ng-star-inserted&quot;]/li[@class=&quot;ui-dropdown-item ui-corner-all ui-state-highlight&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>dbb850b9-4f43-4e55-91c6-43c036586b40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div/div/div/div/roots-dropdown/div/div[5]/div/ul/roots-dropdownitem/li/span</value>
+      <webElementGuid>44faa4fe-05cc-4bb4-84d1-76aad67a958d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Defendant'])[2]/following::span[2]</value>
+      <webElementGuid>fe50888f-4555-4efd-9713-ee4e6dfbdb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[2]</value>
+      <webElementGuid>891b2032-6a39-44a8-91bc-6057f613bd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officer'])[1]/preceding::span[1]</value>
+      <webElementGuid>de35fdec-03c8-464f-85ce-e02cc7bb0f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officer - Victim'])[1]/preceding::span[2]</value>
+      <webElementGuid>bf078e5d-58a6-4822-8867-759b3fe7f5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>e718912b-b033-4e9c-b6d5-55e417dc7ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Defendant' or . = 'Defendant')]</value>
+      <webElementGuid>05f7f228-3bb2-4c13-a66f-082d70a12786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit (2)</name>
+   <tag></tag>
+   <elementGuidId>a60f7a22-bd98-4ac2-b389-cf68b888361a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='submitId'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-auto.ng-star-inserted > #submitId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e1e3292f-9496-4553-8da0-b5deeebee6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submitId</value>
+      <webElementGuid>a8101dc0-7d51-4ed0-8613-db6af312de7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5f37b89-7952-41a4-af29-40c981f5b4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary px-4 ng-star-inserted</value>
+      <webElementGuid>5bda5d27-f164-44e6-9f50-414199801318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>c904df82-4bef-4951-aa00-972fcd3df479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;d-flex ng-star-inserted&quot;]/span[@class=&quot;ml-auto ng-star-inserted&quot;]/button[@id=&quot;submitId&quot;]</value>
+      <webElementGuid>3a049576-4070-4428-b31f-9d5062c2dfd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='submitId'])[2]</value>
+      <webElementGuid>2ff7c29f-7777-4da9-ba6d-2e3a85bb7825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[3]/span/button[2]</value>
+      <webElementGuid>a453aba4-e16e-495a-ac05-a9728906c586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[2]/following::button[1]</value>
+      <webElementGuid>f9cf6e33-1b1a-43b2-a5ff-aaeedb3e0d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense Date(s) :'])[1]/following::button[2]</value>
+      <webElementGuid>7620fecb-1397-41d0-afe0-1e62426dff8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Overview'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c1b9af6-200a-406f-a4f3-27821c9a6267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leadership'])[1]/preceding::button[1]</value>
+      <webElementGuid>2ba76093-300a-4d69-84e7-1b4b814fcd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/button[2]</value>
+      <webElementGuid>1d5759da-63da-4dd7-a0bb-7298f0c55375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'submitId' and @type = 'button' and (text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>6a65fa49-df33-4663-b40b-e24050fc9472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

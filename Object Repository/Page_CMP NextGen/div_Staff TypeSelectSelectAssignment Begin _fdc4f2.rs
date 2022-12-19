@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Staff TypeSelectSelectAssignment Begin _fdc4f2</name>
+   <tag></tag>
+   <elementGuidId>caba6d2f-4f26-4208-a7d8-66d75f9b38aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-dialog-content.ui-widget-content.ng-tns-c50-180</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0415ee66-5873-4187-b69b-976b8a045a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dialog-content ui-widget-content ng-tns-c50-180</value>
+      <webElementGuid>3974655c-f3e4-47ff-9fd9-489a601f9d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Staff Type*SelectSelectAssignment Begin Date*ui-btnAssigned To*SelectSelectAssigned To is required.Assignment End Dateui-btnAssigned BySelectSelectParticipants (To assign at case level, do not select participants)ChooseSaveCancel</value>
+      <webElementGuid>b5d0958e-56c9-4126-9594-df492ff633fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;mb-2 ng-star-inserted&quot;]/app-assigned-staff[1]/roots-dialog[@class=&quot;ng-tns-c50-180 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-180 col-md-10 col-lg-10 col-xl-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted ng-animating&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-180&quot;]</value>
+      <webElementGuid>761f5528-69be-4982-ba2e-77ac9a9f3113</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]</value>
+      <webElementGuid>7892f5b8-74be-40e6-a3bc-10d8b5a39e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Assigned Staff'])[2]/following::div[1]</value>
+      <webElementGuid>553a7109-d396-4497-8f47-f77b3a0cbfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[3]</value>
+      <webElementGuid>06d01cb5-f721-4fbb-9420-0a4722d8495b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-dialog/div/div[2]</value>
+      <webElementGuid>ea7bf02f-4c05-48ba-aa19-958dfaa509e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Staff Type*SelectSelectAssignment Begin Date*ui-btnAssigned To*SelectSelectAssigned To is required.Assignment End Dateui-btnAssigned BySelectSelectParticipants (To assign at case level, do not select participants)ChooseSaveCancel' or . = 'Staff Type*SelectSelectAssignment Begin Date*ui-btnAssigned To*SelectSelectAssigned To is required.Assignment End Dateui-btnAssigned BySelectSelectParticipants (To assign at case level, do not select participants)ChooseSaveCancel')]</value>
+      <webElementGuid>79d02e5a-349b-4895-a480-478e0dca88b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

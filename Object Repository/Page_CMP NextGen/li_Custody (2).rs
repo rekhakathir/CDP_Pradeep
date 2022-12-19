@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Custody (2)</name>
+   <tag></tag>
+   <elementGuidId>5fb45d07-9d81-40fa-908c-9e350a6474dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div[23]/div/roots-dropdown/div/div[5]/div/ul/roots-dropdownitem/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-dropdown-item.ui-corner-all</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>275807bd-0c62-42fa-91df-c47c74f7fb28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>91d63e54-5444-4b61-98e5-1076469dfc19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Custody</value>
+      <webElementGuid>6499e72b-b665-490a-964b-407b2ed49ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-item ui-corner-all</value>
+      <webElementGuid>70de4da2-eff8-42cf-8538-9b80976dbd7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custody</value>
+      <webElementGuid>dff74ee8-2e11-44f5-a84a-128abac4030a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-6-label&quot;)/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-65&quot;]/div[@class=&quot;ng-tns-c74-65&quot;]/form[@class=&quot;ng-invalid ng-touched ng-pristine&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-113 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-113 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-open ui-dropdown-clearable&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c48-113 ui-dropdown-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-dropdown-items-wrapper ng-tns-c48-113&quot;]/ul[@class=&quot;ui-dropdown-items ui-dropdown-list ui-widget-content ui-widget ui-corner-all ui-helper-reset ng-tns-c48-113&quot;]/roots-dropdownitem[@class=&quot;ng-tns-c48-113 ng-star-inserted&quot;]/li[@class=&quot;ui-dropdown-item ui-corner-all&quot;]</value>
+      <webElementGuid>3fcd5306-c109-4f33-b471-fe4eda4b1115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div[23]/div/roots-dropdown/div/div[5]/div/ul/roots-dropdownitem/li</value>
+      <webElementGuid>ba39b0b4-d02e-4736-9c0d-1cd2ce1beacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[16]/following::li[1]</value>
+      <webElementGuid>8c7e1d8c-ce12-45da-9a2f-8e582f93cc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::li[1]</value>
+      <webElementGuid>68de5754-cf29-4b71-bcd4-3c604e694205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Custody'])[1]/preceding::li[1]</value>
+      <webElementGuid>55990cf0-789a-40e8-8637-9a176f65d088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-dropdownitem/li</value>
+      <webElementGuid>536bec30-0758-4444-a1af-41d9a3635d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Custody' or . = 'Custody')]</value>
+      <webElementGuid>ebdacdb8-7cf3-4ffe-80dd-39560256b3ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

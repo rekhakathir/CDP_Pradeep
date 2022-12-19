@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Felony (2)</name>
+   <tag></tag>
+   <elementGuidId>43bf4eff-f712-445b-bdce-982ddb98bdaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-2-label']/div/form/div[2]/div/div[2]/div/roots-dropdown/div/div[5]/div/ul/roots-dropdownitem/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-dropdown-item.ui-corner-all > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b8fc4b4-1f38-4786-9ed6-1e8cc321cbbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>2ebfc917-c52c-4503-9918-4377a322a72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Felony</value>
+      <webElementGuid>623f1d79-1245-476b-9e9c-c1ddad0b69d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-2&quot;)/div[@id=&quot;ui-panel-2-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-39&quot;]/form[@class=&quot;ng-tns-c74-39 ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;detail-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;select-option ng-tns-c48-49 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-49 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-open ui-dropdown-clearable&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c48-49 ui-dropdown-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-dropdown-items-wrapper ng-tns-c48-49&quot;]/ul[@class=&quot;ui-dropdown-items ui-dropdown-list ui-widget-content ui-widget ui-corner-all ui-helper-reset ng-tns-c48-49&quot;]/roots-dropdownitem[@class=&quot;ng-tns-c48-49 ng-star-inserted&quot;]/li[@class=&quot;ui-dropdown-item ui-corner-all&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>53347bb0-1cd9-413c-99cf-ad3f2183843f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-2-label']/div/form/div[2]/div/div[2]/div/roots-dropdown/div/div[5]/div/ul/roots-dropdownitem/li/span</value>
+      <webElementGuid>fdaa5e6c-8f31-47ef-ad1e-2f5dc33f572a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[6]/following::span[2]</value>
+      <webElementGuid>00ecbf9b-acfa-4c8d-b1e5-0085d34c33a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[2]</value>
+      <webElementGuid>952c4706-c88f-46ca-80bb-9b5fc10bdc71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Misdemeanor'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ae4c1ba-389f-499c-b2bc-0da94f6cf3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation'])[1]/preceding::span[2]</value>
+      <webElementGuid>a1b7605c-718a-4c63-9bb0-e62cd2af1e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Felony']/parent::*</value>
+      <webElementGuid>d1271db0-574e-41a1-8a2b-5308d00a8342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>d89c2c23-a500-4ab0-801b-ca3639977b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Felony' or . = 'Felony')]</value>
+      <webElementGuid>b3652cb7-e365-4149-b758-20960af00c6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

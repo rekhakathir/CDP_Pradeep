@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select_ui-dropdown-trigger ui-state-def_f29808</name>
+   <tag></tag>
+   <elementGuidId>7d033005-068c-40a2-a86e-46933044b50f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-dropdown-trigger.ui-state-default.ui-corner-right.ng-tns-c48-182</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b37d1ef-373b-450a-b6ec-8bd268a3536f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-182</value>
+      <webElementGuid>fce16216-2c7e-47d9-b3a5-e152f994057c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;mb-2 ng-star-inserted&quot;]/app-assigned-staff[1]/roots-dialog[@class=&quot;ng-tns-c50-179 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-179 col-md-10 col-lg-10 col-xl-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-179&quot;]/form[@class=&quot;ng-invalid ng-tns-c50-179 ng-touched ng-dirty&quot;]/div[@class=&quot;roots-form-control&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;select-option ng-tns-c48-182 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c48-182 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-182&quot;]</value>
+      <webElementGuid>7050f68d-1c24-4324-b2fb-955115912b71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]</value>
+      <webElementGuid>b2419026-2a02-4f96-90e9-86d4a622169b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[7]/following::div[1]</value>
+      <webElementGuid>9334d33d-e484-469c-96f5-a59274e6c608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[5]</value>
+      <webElementGuid>d6688e54-fba8-4f3a-abc3-ce08d03cdfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment End Date'])[1]/preceding::div[1]</value>
+      <webElementGuid>256d31b3-6a4e-41b6-a34d-6a7ec6f26c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-btn'])[2]/preceding::div[1]</value>
+      <webElementGuid>c87de9a1-5b11-432b-888b-1a64e43a1164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/roots-dropdown/div/div[4]</value>
+      <webElementGuid>346b93ca-8883-4674-96d1-0ae5fd1622f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

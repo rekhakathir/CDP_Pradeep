@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select (2)</name>
+   <tag></tag>
+   <elementGuidId>64d0c872-0908-43c2-960f-e1b4f7ab5979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-14-label']/div/app-participant-knownperson/div[2]/div/div/roots-table/div/div/table/tbody/tr/td[8]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cursor-pointer.text-primary.font-weight-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc61cbe9-d7a2-4c4f-8b98-9d2680ed4f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>09f54417-7822-468a-bd23-3d0e2ea755ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>roots-tooltip</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>bd06bf9c-279e-491c-8f0e-8dac527ca1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer text-primary font-weight-bold</value>
+      <webElementGuid>653fed2e-bf60-4c90-9124-5794a4333c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>00a32098-7b6c-46ae-b389-98948b142997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-14-label&quot;)/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-121&quot;]/app-participant-knownperson[@class=&quot;ng-tns-c74-121&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;app-tabview mt-1 px-3&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[8]/span[@class=&quot;cursor-pointer text-primary font-weight-bold&quot;]</value>
+      <webElementGuid>646eb54b-0e3b-4e3b-8f78-721f95a8b6b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-14-label']/div/app-participant-knownperson/div[2]/div/div/roots-table/div/div/table/tbody/tr/td[8]/span</value>
+      <webElementGuid>592b3fc5-374d-45f9-89d2-470b4d94eb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='House #21, Plot 45, Adair Village, OR, United States, 97330, Benton'])[1]/following::span[1]</value>
+      <webElementGuid>50dd2cd4-cd1d-42f9-b3b4-792c7cb199a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing Address :'])[1]/following::span[2]</value>
+      <webElementGuid>975f181a-85d9-454f-818c-c1e53d9c259b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expansion Link'])[2]/preceding::span[1]</value>
+      <webElementGuid>82091067-e648-4e2b-92cb-535a18cdc171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::span[2]</value>
+      <webElementGuid>5019107f-de82-45ab-b81a-69e75ee2b082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/span</value>
+      <webElementGuid>d5d1c92c-7c1e-4d02-9f59-3ac78f48b824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>2acc3340-4623-4b61-893f-8b0feeb351d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

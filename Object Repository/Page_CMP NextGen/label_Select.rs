@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select</name>
+   <tag></tag>
+   <elementGuidId>69feafe1-c691-4e60-9b49-992d88e8c09e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='test']/div/div/form/div/div/div[2]/div/div[4]/div/roots-dropdown/div/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ng-tns-c48-29.ui-dropdown-label.ui-inputtext.ui-corner-all.ui-placeholder.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>627e0c34-9dee-4a1d-87ad-85d12716e501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c48-29 ui-dropdown-label ui-inputtext ui-corner-all ui-placeholder ng-star-inserted</value>
+      <webElementGuid>d424c94e-c6f0-4b8a-8ecb-4a1dda432883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>0a5839ba-2409-41df-969c-4db3428dc2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-29 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c48-29 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-label-container ng-tns-c48-29&quot;]/label[@class=&quot;ng-tns-c48-29 ui-dropdown-label ui-inputtext ui-corner-all ui-placeholder ng-star-inserted&quot;]</value>
+      <webElementGuid>b19969f0-c5cc-4ceb-94a5-02ce0bae991c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='test']/div/div/form/div/div/div[2]/div/div[4]/div/roots-dropdown/div/div[3]/label</value>
+      <webElementGuid>8b99ac5a-4153-4646-ab09-9964723e0d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[1]</value>
+      <webElementGuid>ddd1b408-5e3f-4ed2-ba2b-8d42f3eb5ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facts'])[1]/preceding::label[1]</value>
+      <webElementGuid>c6647cf5-efcf-47eb-916d-bb7aae38fbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Description'])[1]/preceding::label[2]</value>
+      <webElementGuid>c6744386-6e6b-4b9e-b3ac-a95ee13b3899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/roots-dropdown/div/div[3]/label</value>
+      <webElementGuid>75d342a9-3e44-479a-a5de-a21b10359cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>e588b1aa-e9fe-432f-98da-5897ad754d42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

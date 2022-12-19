@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_ui-dropdown-trigger-icon ui-cli_2fc28a (1)</name>
+   <tag></tag>
+   <elementGuidId>d600b718-e91d-4232-9c09-e8adb09b260a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div[24]/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-dropdown-trigger-icon.ui-clickable.ng-tns-c48-114.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55ac4fe9-ef8d-45b0-b9bd-8c99ffc05bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger-icon ui-clickable ng-tns-c48-114 fas fa-angle-down</value>
+      <webElementGuid>1df5d1ae-22f8-4d0e-a4b1-a3738bdaf5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-6-label&quot;)/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-65&quot;]/div[@class=&quot;ng-tns-c74-65&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-114 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c48-114 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-114&quot;]/span[@class=&quot;ui-dropdown-trigger-icon ui-clickable ng-tns-c48-114 fas fa-angle-down&quot;]</value>
+      <webElementGuid>39c68307-5f39-49d9-9de8-846027ab073b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div[24]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>d748ed41-dbd7-45fa-9ed6-7a41df8a490d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>7b3e0985-d24a-405f-bc89-12006a9d8cef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

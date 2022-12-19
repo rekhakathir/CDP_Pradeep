@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Statute Lookup (1)</name>
+   <tag></tag>
+   <elementGuidId>387caad0-e873-405b-a1e2-1f5dcadd4ce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-white.border-primary.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-text-icon-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1df58f5e-169e-485b-9732-6d773c16e56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f193405-6af8-4f67-8f79-dd5b69663fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>fa fa-search-plus</value>
+      <webElementGuid>614ff255-d98e-44ef-8d64-945432d5a7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Statute Lookup</value>
+      <webElementGuid>640099a5-c67b-4202-babe-95e8d775c1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-white border-primary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-left</value>
+      <webElementGuid>d2af24e1-916b-4012-ba1f-bd9f0e975601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Statute Lookup</value>
+      <webElementGuid>841ac8d1-fd79-4978-8229-2d2730430744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/app-caseintake-charges[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-participant-addcharges[1]/div[2]/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-white border-primary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-left&quot;]</value>
+      <webElementGuid>9b235790-4ee2-44de-ad6a-2c955f97313b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>85e71803-72ff-459f-a41c-a3291c70a360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseintake-charges/div[2]/app-participant-addcharges/div[2]/div/form/div/div[4]/div/button</value>
+      <webElementGuid>192406e3-6e62-40d6-b6e0-26a04a2c99ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statute Lookup'])[1]/following::button[1]</value>
+      <webElementGuid>bf64979d-4cc0-42f3-9724-4cc380020895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-btn'])[2]/following::button[1]</value>
+      <webElementGuid>4c644968-5f2f-4272-a278-ce56b4a939ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>e712de24-f7cd-4b1e-8b37-c15e06313b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Statute Lookup' or . = 'Statute Lookup')]</value>
+      <webElementGuid>22993c0b-d3aa-4aac-958a-30031a6a9b96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

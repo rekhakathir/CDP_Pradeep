@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Circuit Court_ui-dropdown-trigger-icon_c8c65c</name>
+   <tag></tag>
+   <elementGuidId>bf33b1f7-cdce-4cd9-b98d-1e5ad3151ca2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-2-label']/div/form/div[2]/div/div[5]/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-dropdown-trigger-icon.ui-clickable.ng-tns-c48-52.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fcb0821-513d-4324-ab0a-2790912d05d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger-icon ui-clickable ng-tns-c48-52 fas fa-angle-down</value>
+      <webElementGuid>81270f2d-67fd-43f5-b1b8-c6b1ba418528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-2&quot;)/div[@id=&quot;ui-panel-2-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-39&quot;]/form[@class=&quot;ng-tns-c74-39 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;detail-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-52 ui-inputwrapper-filled ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c48-52 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-52&quot;]/span[@class=&quot;ui-dropdown-trigger-icon ui-clickable ng-tns-c48-52 fas fa-angle-down&quot;]</value>
+      <webElementGuid>d3e0b27e-bec3-425f-87a9-15a2bdb21f62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-2-label']/div/form/div[2]/div/div[5]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>371fd454-ea86-4093-8590-78c19521434d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>b7a2dc2f-cf41-45c4-9aad-63901a2fb6c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

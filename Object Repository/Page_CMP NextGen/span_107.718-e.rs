@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_107.718-e</name>
+   <tag></tag>
+   <elementGuidId>ed7ad6bb-6dc9-4d47-8fe1-b82d416e5419</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ng-star-inserted > span.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseintake-charges/div[2]/app-participant-addcharges/div[2]/div/form/div[2]/div/div[2]/div/div/div/app-participant-statutelkup/form/div[2]/div/div/div/roots-table/div/div/table/tbody/tr/td/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f0020a3-219b-42f4-bbb9-064971c7852f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>1686c134-1e72-4f43-a99c-6d8031736bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 107.718-e </value>
+      <webElementGuid>91cc90b4-5acb-459a-b31a-44df0eeab9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/app-caseintake-charges[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-participant-addcharges[1]/div[2]/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;col ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;border rounded-bottom&quot;]/div[@class=&quot;knownPerson-dialog py-2&quot;]/div[@class=&quot;popup&quot;]/app-participant-statutelkup[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;app-tabview px-3&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>98850ce8-ce6c-4270-bf24-8705d704e75c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseintake-charges/div[2]/app-participant-addcharges/div[2]/div/form/div[2]/div/div[2]/div/div/div/app-participant-statutelkup/form/div[2]/div/div/div/roots-table/div/div/table/tbody/tr/td/span[2]</value>
+      <webElementGuid>5c405817-498c-46ae-89f9-2f82ee1609a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statute:'])[1]/following::span[1]</value>
+      <webElementGuid>326642d5-e288-4509-b621-36d7575682cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[5]/following::span[2]</value>
+      <webElementGuid>15238a85-99a9-4886-b3c9-d26313ba573a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense Title:'])[1]/preceding::span[1]</value>
+      <webElementGuid>0e5c35e3-cb2a-479b-bba0-1b2919437999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VRO - Abuse, Molest, Inte'])[1]/preceding::span[2]</value>
+      <webElementGuid>48d66ce8-547e-42d5-9358-5a75727c82c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='107.718-e']/parent::*</value>
+      <webElementGuid>dec34a25-cc4c-43db-8d79-771183981ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span[2]</value>
+      <webElementGuid>bbf030df-0f1d-4c04-b90c-1e70f12f2086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 107.718-e ' or . = ' 107.718-e ')]</value>
+      <webElementGuid>5782ade1-e2f2-4eac-a0dd-65a5fc00af71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

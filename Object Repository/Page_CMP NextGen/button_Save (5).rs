@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save (5)</name>
+   <tag></tag>
+   <elementGuidId>eace39fd-2585-4025-aeb0-ced8d0b3f5fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.text-white.px-4.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2e813bf1-3ba7-4260-88e9-c7c030759b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5d67ca94-0169-4095-b984-9e6d3f5df2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary text-white px-4 mr-2</value>
+      <webElementGuid>159e0284-1490-4b18-805c-c46b5467eb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>e27b2677-84d1-4527-bf4b-e3ea8761331a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/app-attachment[1]/div[@class=&quot;mt-2&quot;]/roots-dialog[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-28 dialog-common col-md-6 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-28&quot;]/app-add-dms-attachment-form[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex justify-content-end align-items-center&quot;]/button[@class=&quot;btn btn-primary text-white px-4 mr-2&quot;]</value>
+      <webElementGuid>ed8c92be-497e-42dd-8744-9f36f229ca38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>ba478737-7440-418a-b6ec-d590c4e527a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='test']/div/div/form/div/div/div[2]/div[3]/app-attachment/div/roots-dialog/div/div[2]/app-add-dms-attachment-form/form/div/div[2]/div/button</value>
+      <webElementGuid>49911f82-1d3d-41d2-88cc-4b4246c5ed0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPB DUII_Redacted.pdf'])[2]/following::button[2]</value>
+      <webElementGuid>e5acdd70-f6c4-494c-8ab7-4b59da930e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag File to Upload'])[2]/following::button[2]</value>
+      <webElementGuid>e16a5aac-7d80-46c6-aaa6-a6ab338d8931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::button[1]</value>
+      <webElementGuid>0f7601ef-4d1a-49f0-b7fa-d35d0b00b2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Details'])[1]/preceding::button[2]</value>
+      <webElementGuid>ba9bcfdd-efc5-4e8c-a64f-d3e2e7e9e055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>d2e3b7bb-f318-4031-b945-20bd814e9aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>b90edc8d-3326-4867-b2db-cb707635f535</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

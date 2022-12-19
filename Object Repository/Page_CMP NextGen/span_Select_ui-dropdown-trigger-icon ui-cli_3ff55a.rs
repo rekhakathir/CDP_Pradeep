@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_ui-dropdown-trigger-icon ui-cli_3ff55a</name>
+   <tag></tag>
+   <elementGuidId>1a6b2815-0f9e-436f-b3eb-a49a74c1800d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-dropdown-trigger-icon.ui-clickable.ng-tns-c48-181.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>271b2e06-675e-4fe8-9c54-015c32deda17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger-icon ui-clickable ng-tns-c48-181 fas fa-angle-down</value>
+      <webElementGuid>159dbdc6-1700-423f-931a-87b0bbaf39cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;mb-2 ng-star-inserted&quot;]/app-assigned-staff[1]/roots-dialog[@class=&quot;ng-tns-c50-180 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-180 col-md-10 col-lg-10 col-xl-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-180&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-tns-c50-180 ng-touched&quot;]/div[@class=&quot;roots-form-control&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;select-option ng-tns-c48-181 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-181 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-181&quot;]/span[@class=&quot;ui-dropdown-trigger-icon ui-clickable ng-tns-c48-181 fas fa-angle-down&quot;]</value>
+      <webElementGuid>a3f7ba6a-23a5-4f76-b33e-654ab3cb0db9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>ace77aa7-f27f-43eb-bb45-d34a89b054a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>25b84711-22c7-465f-be3a-0ab4dc6edf50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

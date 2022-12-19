@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Case Intake - Adult Criminal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e76a2ac5-bcaf-4351-8cea-90c014d2f55a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a8d2047-3e2f-4a05-bfa6-b6b4aa94b89b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Ciber\\\\Desktop\\\\PPB DUII_Redacted.pdf'</defaultValue>
+      <description></description>
+      <id>9a8d2047-3e2f-4a05-bfa6-b6b4aa94b89b</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

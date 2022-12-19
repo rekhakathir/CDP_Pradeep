@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>d51f2d41-4af2-4f21-90d7-b59d6a1beb34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.text-white.px-4.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c853f5c-b2b4-4c18-b225-778576fd2dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>714fc7ee-58e7-483c-b54b-2c25dade84b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary text-white px-4 mr-2</value>
+      <webElementGuid>3bba7e9a-5681-4be1-83b8-cd53822d9834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>85d33c79-fb01-4f90-b85b-2e4c3723c921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/app-attachment[1]/div[@class=&quot;mt-2&quot;]/roots-dialog[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-28 dialog-common col-md-6 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-28&quot;]/app-add-dms-attachment-form[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex justify-content-end align-items-center&quot;]/button[@class=&quot;btn btn-primary text-white px-4 mr-2&quot;]</value>
+      <webElementGuid>dac3dc22-befa-4cf6-81c7-f5a7866f6d1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>00ad8f87-bded-4a5e-bf8b-5dd127207da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='test']/div/div/form/div/div/div[2]/div[3]/app-attachment/div/roots-dialog/div/div[2]/app-add-dms-attachment-form/form/div/div[2]/div/button</value>
+      <webElementGuid>a4428450-0ccb-4551-8a4a-949620296e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPB DUII_Redacted.pdf'])[2]/following::button[2]</value>
+      <webElementGuid>86de1682-4d71-44ee-a413-e9a6a8001c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag File to Upload'])[2]/following::button[2]</value>
+      <webElementGuid>9ae2c623-bd56-49a3-97bc-fc2d6746ffe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::button[1]</value>
+      <webElementGuid>0cd3dbc9-9c38-40a9-8282-74775a76834a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Details'])[1]/preceding::button[2]</value>
+      <webElementGuid>12d88cc7-e49d-431a-b97c-466809fb537a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>d05ddeac-3997-4295-b1d9-a061a2790a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>529067c1-2c44-406f-9d2d-eee9b3483e79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

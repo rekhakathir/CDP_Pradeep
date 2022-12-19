@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Menu_menuIremIcon fa-lg text-secondary ml_52d72b (4)</name>
+   <tag></tag>
+   <elementGuidId>58dfb9b5-bd48-45fd-b62f-bacec3c6b8bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li/a/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.menuIremIcon.fa-lg.text-secondary.ml-2.fa.fa-fw.fa-tools</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2effe7d4-d772-4ee1-ae0a-7051d5af17ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menuIremIcon fa-lg text-secondary ml-2 fa fa-fw fa-tools</value>
+      <webElementGuid>624b1825-6381-425a-b383-041741d3589e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav align-items-center py-3 py-sm-0 px-2 px-md-0 w-100&quot;]/li[@class=&quot;nav-item dropdown userDropDown h-100 ng-star-inserted&quot;]/a[@class=&quot;nav-link dropdown-toggle d-flex text-black&quot;]/div[@class=&quot;d-flex align-items-center clearfix cursor-pointer&quot;]/i[@class=&quot;menuIremIcon fa-lg text-secondary ml-2 fa fa-fw fa-tools&quot;]</value>
+      <webElementGuid>57a371b7-b621-4a29-af8c-3e9ad6f06212</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li/a/div/i</value>
+      <webElementGuid>62fd4d47-245c-47b8-9745-a8fed5e68cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>615c10aa-9b3a-44a1-b3d1-5a96346c3e3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

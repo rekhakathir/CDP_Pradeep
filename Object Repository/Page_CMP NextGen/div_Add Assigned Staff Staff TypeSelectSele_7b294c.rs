@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add Assigned Staff Staff TypeSelectSele_7b294c</name>
+   <tag></tag>
+   <elementGuidId>77272354-8d14-4dfe-a28b-fac90de353b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-trigger.ng-trigger-animation.ng-tns-c50-180.col-md-10.col-lg-10.col-xl-8.px-0.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-shadow.ui-dialog-resizable.ng-star-inserted.ng-animating</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4b4e322-15e9-4414-ad38-485fbd884571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>09b843e7-89b8-4f77-b893-36320a0129f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-trigger ng-trigger-animation ng-tns-c50-180 col-md-10 col-lg-10 col-xl-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted ng-animating</value>
+      <webElementGuid>29c4dc54-59a9-405e-b4a4-f5750ac820a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>ui-dialog-30-label</value>
+      <webElementGuid>a7d2206b-24dc-4fb5-a2f0-0ebf3668d090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Assigned Staff Staff Type*SelectSelectAssignment Begin Date*ui-btnAssigned To*SelectSelectAssigned To is required.Assignment End Dateui-btnAssigned BySelectSelectParticipants (To assign at case level, do not select participants)ChooseSaveCancel</value>
+      <webElementGuid>a1af04c9-407e-4e7d-ae7e-5deac15f75ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;mb-2 ng-star-inserted&quot;]/app-assigned-staff[1]/roots-dialog[@class=&quot;ng-tns-c50-180 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-180 col-md-10 col-lg-10 col-xl-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted ng-animating&quot;]</value>
+      <webElementGuid>ab78ef7c-e2d7-4423-af3b-432a135068c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div</value>
+      <webElementGuid>ac10d489-ed02-479e-8164-33fb9ff114e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[1]</value>
+      <webElementGuid>c8951559-299c-48ce-a747-e870e06739ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[1]</value>
+      <webElementGuid>b7709ed2-11e4-4862-9f0b-be3710ba41de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-dialog/div</value>
+      <webElementGuid>5122c28a-432f-4886-8a10-afcabecad8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add Assigned Staff Staff Type*SelectSelectAssignment Begin Date*ui-btnAssigned To*SelectSelectAssigned To is required.Assignment End Dateui-btnAssigned BySelectSelectParticipants (To assign at case level, do not select participants)ChooseSaveCancel' or . = 'Add Assigned Staff Staff Type*SelectSelectAssignment Begin Date*ui-btnAssigned To*SelectSelectAssigned To is required.Assignment End Dateui-btnAssigned BySelectSelectParticipants (To assign at case level, do not select participants)ChooseSaveCancel')]</value>
+      <webElementGuid>97e12885-5c9b-4b71-9e81-e55142805d2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Defendant-balya MR., pradeep kumar</name>
+   <tag></tag>
+   <elementGuidId>5e239b37-6a77-4e1d-b388-2e9180475db6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseinatake-review/div/div[3]/div[2]/app-roots-card-template/div/div/div/div/label/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.mb-3.ng-star-inserted > app-roots-card-template > div.roots-card-template.h-100 > div.roots-card-header.border-bottom.mb-2 > div.d-flex.align-items-center > div.mr-3.d-flex.align-items-center > label.mb-0.text-nowrap.w-100.overflow-hidden.text-overflow-ellipsis > a.text-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>756ee8f0-0ad8-42f6-8c66-6366130cb843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tooltipposition</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>5f585d84-ef96-49f8-8a0d-c52a81a7388a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-default</value>
+      <webElementGuid>803e6323-4911-4d58-95f0-e7356469da39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Defendant-balya MR., pradeep kumar</value>
+      <webElementGuid>eb3d96ee-2623-4144-be1c-2d3a80280123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/app-caseinatake-review[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;review&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-6 mb-3 ng-star-inserted&quot;]/app-roots-card-template[1]/div[@class=&quot;roots-card-template h-100&quot;]/div[@class=&quot;roots-card-header border-bottom mb-2&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;mr-3 d-flex align-items-center&quot;]/label[@class=&quot;mb-0 text-nowrap w-100 overflow-hidden text-overflow-ellipsis&quot;]/a[@class=&quot;text-default&quot;]</value>
+      <webElementGuid>ea236ec9-9dd4-439a-afd7-102e71d38972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseinatake-review/div/div[3]/div[2]/app-roots-card-template/div/div/div/div/label/a</value>
+      <webElementGuid>03792639-041f-424d-86f8-bc2abb22f034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Defendant-balya MR., pradeep kumar')]</value>
+      <webElementGuid>a186a66a-5b25-49c5-9080-e1d87522ab88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants :'])[1]/following::a[1]</value>
+      <webElementGuid>46e33ba4-3011-41c0-852d-b3a51570c41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment End Date :'])[1]/following::a[1]</value>
+      <webElementGuid>10d2156e-6bcb-4adb-a34f-024a9035f777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB:'])[1]/preceding::a[1]</value>
+      <webElementGuid>89892539-19c1-4b1f-845e-f6d6a8e71ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/preceding::a[1]</value>
+      <webElementGuid>da187afd-a03e-439d-8615-9d4103670c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Defendant-balya MR., pradeep kumar']/parent::*</value>
+      <webElementGuid>ec9c54b5-95cf-4bd1-ac48-4a8625c929a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/app-roots-card-template/div/div/div/div/label/a</value>
+      <webElementGuid>1613adfe-9d29-4e96-b6fb-c9ddd4aeb427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Defendant-balya MR., pradeep kumar' or . = 'Defendant-balya MR., pradeep kumar')]</value>
+      <webElementGuid>6da2da58-e245-40c3-9559-53ee533abc6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

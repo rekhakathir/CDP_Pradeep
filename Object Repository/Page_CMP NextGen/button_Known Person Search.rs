@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Known Person Search</name>
+   <tag></tag>
+   <elementGuidId>07b42b32-9732-4c17-a5c8-929f62e63243</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-white.border-primary.form-group.ml-auto.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-text-icon-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>de64471d-1367-4452-b4fb-c24bb36266dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>936e6a37-69f8-40f9-9adc-c212bbb569c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>fa fa-search-plus</value>
+      <webElementGuid>4c2dc822-94a4-4060-9200-573bdcdc8c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Known Person Search</value>
+      <webElementGuid>937e35a0-83e5-46df-aeed-8a1a9d91ccd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-white border-primary form-group ml-auto ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-left</value>
+      <webElementGuid>13708353-7ff2-49e2-a2de-a36a0a0d063e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Known Person Search</value>
+      <webElementGuid>d2c82408-3644-4078-9d9a-bac38caddb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-6-label&quot;)/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-64&quot;]/div[@class=&quot;ng-tns-c74-64&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ml-auto ng-star-inserted&quot;]/div[@class=&quot;d-flex align-items-end h-100&quot;]/button[@class=&quot;btn btn-white border-primary form-group ml-auto ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-left&quot;]</value>
+      <webElementGuid>da9ea55c-c63b-4279-b067-e8c3c3f44ccd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>90649e1a-d84c-48b3-aa3b-6b166aa45c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-6-label']/div/div/form/div/div/div/div/div/div[9]/div/button</value>
+      <webElementGuid>b3b7e4a6-8b3d-4d77-8744-dc4646e5a055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Name'])[1]/following::button[1]</value>
+      <webElementGuid>037586d4-6823-4ac0-8264-501e36774d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-btn'])[1]/following::button[1]</value>
+      <webElementGuid>f4c86286-be4d-4dbd-be4e-916b5a66312a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age'])[1]/preceding::button[1]</value>
+      <webElementGuid>d934f077-aac6-4a4f-ac1e-b5bf572652e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/button</value>
+      <webElementGuid>b3039182-613a-4340-ba91-e128f29edb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Known Person Search' or . = 'Known Person Search')]</value>
+      <webElementGuid>3634dcb1-5500-49a1-8eec-7e50e5c9411f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

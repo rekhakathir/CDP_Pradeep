@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Attachments</name>
+   <tag></tag>
+   <elementGuidId>a025c99c-ef3b-4e55-896b-10f23e91e236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0']/div/roots-header/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-auto.mr-2.mr-sm-5.text-primary.d-flex.align-items-center.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>41c89fbb-f54e-4b24-a56c-79c028d9bd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9137cce6-9aa8-469f-80e3-c3f7d17dd4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-auto mr-2 mr-sm-5 text-primary d-flex align-items-center cursor-pointer</value>
+      <webElementGuid>8e968453-0468-4f46-a296-fef8fa3a2366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Attachments </value>
+      <webElementGuid>2010f126-e6ed-45a7-ac9f-106d1ec37f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0&quot;)/div[@class=&quot;ng-tns-c74-27 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c74-27&quot;]/div[@class=&quot;d-flex&quot;]/span[@class=&quot;ml-auto mr-2 mr-sm-5 text-primary d-flex align-items-center cursor-pointer&quot;]</value>
+      <webElementGuid>507048bc-e0fd-4017-9182-4594cb621e1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0']/div/roots-header/div/span</value>
+      <webElementGuid>a8a72c35-1fd8-4c2e-a4fd-4f16fb15e7bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/following::span[1]</value>
+      <webElementGuid>07e7cf24-0512-4cbd-8c47-060c49be5b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::span[1]</value>
+      <webElementGuid>b24d85e4-1a48-47a0-a13d-13174840e3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doc Type'])[1]/preceding::span[2]</value>
+      <webElementGuid>1afb9423-d0d2-402a-a721-b863fc0af1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Title'])[1]/preceding::span[2]</value>
+      <webElementGuid>dee2ec46-71ca-41cf-a0f8-56acf9ed78e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Attachments']/parent::*</value>
+      <webElementGuid>a61b9e0e-7f9b-4612-8cdc-fef4c96d26fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-header/div/span</value>
+      <webElementGuid>b5347dea-5cfa-4b35-a748-51f00aa88e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Add Attachments ' or . = ' Add Attachments ')]</value>
+      <webElementGuid>3317a24c-31c1-4229-a0d9-943aefe4ba5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

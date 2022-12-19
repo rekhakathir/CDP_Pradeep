@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choose_ui-multiselect-trigger-icon ui-_4bc115</name>
+   <tag></tag>
+   <elementGuidId>52723def-4f41-4986-a928-e3c3fb350182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-2-label']/div/form/div[2]/div/div[4]/div/roots-multiselect/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-multiselect-trigger-icon.ui-clickable.ng-tns-c52-53.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce00099d-5c64-490c-b594-f5004ed32438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-multiselect-trigger-icon ui-clickable ng-tns-c52-53 fas fa-angle-down</value>
+      <webElementGuid>1a0e8c43-ce16-4e0a-839a-49a383061978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-2&quot;)/div[@id=&quot;ui-panel-2-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c74-41&quot;]/form[@class=&quot;ng-tns-c74-41 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;detail-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c52-53 ui-inputwrapper-filled ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c52-53 ui-multiselect ui-widget ui-state-default ui-corner-all&quot;]/div[@class=&quot;ng-tns-c52-53 ui-multiselect-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-multiselect-trigger-icon ui-clickable ng-tns-c52-53 fas fa-angle-down&quot;]</value>
+      <webElementGuid>3f62c80f-9bae-45f3-b96b-b903e4181ad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-2-label']/div/form/div[2]/div/div[4]/div/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>d534e999-b975-444a-80b4-62ea23ce1d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>e1384b98-26e2-427c-bb8e-75e7a5db4869</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Document Type_ui-dropdown-trigg_5d166d</name>
+   <tag></tag>
+   <elementGuidId>48f1eb8a-1467-4380-b24e-6441c284bde3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='test']/div/div/form/div/div/div[2]/div[3]/app-attachment/div/roots-dialog/div/div[2]/app-add-dms-attachment-form/form/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-dropdown-trigger-icon.ui-clickable.ng-tns-c48-38.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>191eb0b0-2513-4b0d-81bd-a8b4bedcf6cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger-icon ui-clickable ng-tns-c48-38 fas fa-angle-down</value>
+      <webElementGuid>724aa512-e3ca-49fe-92d7-eb88855cb3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/app-attachment[1]/div[@class=&quot;mt-2&quot;]/roots-dialog[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-28 dialog-common col-md-6 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-28&quot;]/app-add-dms-attachment-form[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-38 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-38 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c48-38&quot;]/span[@class=&quot;ui-dropdown-trigger-icon ui-clickable ng-tns-c48-38 fas fa-angle-down&quot;]</value>
+      <webElementGuid>6fffed66-3c85-4258-bd7e-9dfd012aacdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='test']/div/div/form/div/div/div[2]/div[3]/app-attachment/div/roots-dialog/div/div[2]/app-add-dms-attachment-form/form/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>2b668bfb-481b-48a0-9169-f385e38bcd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>c6af38ee-de3e-42cb-b87f-f87e436e9c95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

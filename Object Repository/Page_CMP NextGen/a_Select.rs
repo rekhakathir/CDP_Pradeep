@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select</name>
+   <tag></tag>
+   <elementGuidId>6a424cc9-92ce-4829-bdd1-d235a035f634</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cursor-pointer.text-primary.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseintake-charges/div[2]/app-participant-addcharges/div[2]/div/form/div[2]/div/div[2]/div/div/div/app-participant-statutelkup/form/div[2]/div/div/div/roots-table/div/div/table/tbody/tr/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8fb6ba1-ad98-4974-a4be-6b557a15eec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer text-primary ng-star-inserted</value>
+      <webElementGuid>74349ff6-a1e6-496d-863f-147fdbee6e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select</value>
+      <webElementGuid>ab69bac9-146d-4134-b247-30bf69ced0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/app-caseintake-charges[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-participant-addcharges[1]/div[2]/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;col ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;border rounded-bottom&quot;]/div[@class=&quot;knownPerson-dialog py-2&quot;]/div[@class=&quot;popup&quot;]/app-participant-statutelkup[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;app-tabview px-3&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;cursor-pointer text-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>49461aa3-5d04-4c67-a946-4c11ff2ea194</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseintake-charges/div[2]/app-participant-addcharges/div[2]/div/form/div[2]/div/div[2]/div/div/div/app-participant-statutelkup/form/div[2]/div/div/div/roots-table/div/div/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>4704638a-3a83-412d-8a68-34e7607c93bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Select')]</value>
+      <webElementGuid>73aa01c2-97ab-473e-9542-c3f000258d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select:'])[1]/following::a[1]</value>
+      <webElementGuid>e83ec3f7-da32-455d-ab2d-1b19e8fa1840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unclassified/Unclassified'])[1]/following::a[1]</value>
+      <webElementGuid>ced00b0d-9e47-40fe-96d8-7b86b7283ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expansion Link'])[1]/preceding::a[1]</value>
+      <webElementGuid>7a3c69fc-bd16-4701-82cb-7f98cae6d664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>b1940ac2-2f15-4210-9eb7-f13579c7cb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Select' or . = ' Select')]</value>
+      <webElementGuid>6b67e704-f54e-48c3-ae7a-3443f8616e58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
